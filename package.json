@@ -1,0 +1,19 @@
+{
+  "name": "user-data-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/timurioukr/user-data-list.git"
+  },
+  "author": "Shehovtsov Timur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/timurioukr/user-data-list/issues"
+  },
+  "homepage": "https://gitlab.com/timurioukr/user-data-list#readme"
+}
